@@ -17,5 +17,6 @@ python test.py --data_src spo
 * [TRex(SPO+DS)](https://hadyelsahar.github.io/t-rex/)
 
 ## Reference
-T-Rex data process script refers to：<https://github.com/THU-BPM/SelfORE/blob/unrefactored/data_preprocess/trex_to_ttsv.cpp>
-the context generation relies on the repo: <https://github.com/UKPLab/plms-graph2text>
+T-Rex data process script refers to：<https://github.com/THU-BPM/SelfORE/blob/unrefactored/data_preprocess/trex_to_ttsv.cpp>.
+
+The context generation relies on the repo: <https://github.com/UKPLab/plms-graph2text>
