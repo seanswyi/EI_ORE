@@ -14,6 +14,7 @@ python test.py --data_src spo
 ```
 ## Dataset
 * [TRex(SPO+DS)](https://hadyelsahar.github.io/t-rex/)
+* [WEBNLG](https://gitlab.com/shimorina/webnlg-dataset/-/tree/master/release_v3.0/en)
 
 ## Reference
 T-Rex data process script refers to：<https://github.com/THU-BPM/SelfORE/blob/unrefactored/data_preprocess/trex_to_ttsv.cpp>.
