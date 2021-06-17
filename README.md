@@ -13,7 +13,6 @@ python train.py --data_src spo --ent_src spo --is_cxt --is_ent
 python test.py --data_src spo 
 ```
 ## Dataset
-* [NYT-FB](https://github.com/diegma/relation-autoencoder/blob/master/data-sample.txt)
 * [TRex(SPO+DS)](https://hadyelsahar.github.io/t-rex/)
 
 ## Reference
