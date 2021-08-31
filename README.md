@@ -1,6 +1,6 @@
 # Element Intervention for Open Relation Extraction
 
-This repository is the codes for our paper "Element Intervention for Open Relation Extraction".
+This repository is the codes for our paper "[Element Intervention for Open Relation Extraction](https://arxiv.org/abs/2106.09558)".
 The data sampling in element intervention relies on a private access elasticsearch API of WIKIDATA, so we will sample and store necessary data for reimplementation, the data will be released once ready.
 
 ## Training command:
